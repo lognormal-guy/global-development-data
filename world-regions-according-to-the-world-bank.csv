@@ -1,0 +1,269 @@
+entity,code,year,region
+Afghanistan,AFG,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Aland Islands,ALA,2023,Europe and Central Asia
+Albania,ALB,2023,Europe and Central Asia
+Algeria,DZA,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+American Samoa,ASM,2023,East Asia and Pacific
+Andorra,AND,2023,Europe and Central Asia
+Angola,AGO,2023,Sub-Saharan Africa
+Anguilla,AIA,2023,Europe and Central Asia
+Antigua and Barbuda,ATG,2023,Latin America and Caribbean
+Argentina,ARG,2023,Latin America and Caribbean
+Armenia,ARM,2023,Europe and Central Asia
+Aruba,ABW,2023,Latin America and Caribbean
+Australia,AUS,2023,East Asia and Pacific
+Austria,AUT,2023,Europe and Central Asia
+Austria-Hungary,OWID_AUH,2023,Europe and Central Asia
+Azerbaijan,AZE,2023,Europe and Central Asia
+Bahamas,BHS,2023,Latin America and Caribbean
+Bahrain,BHR,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Bangladesh,BGD,2023,South Asia
+Barbados,BRB,2023,Latin America and Caribbean
+Belarus,BLR,2023,Europe and Central Asia
+Belgium,BEL,2023,Europe and Central Asia
+Belize,BLZ,2023,Latin America and Caribbean
+Benin,BEN,2023,Sub-Saharan Africa
+Bermuda,BMU,2023,North America
+Bhutan,BTN,2023,South Asia
+Bolivia,BOL,2023,Latin America and Caribbean
+Bonaire Sint Eustatius and Saba,BES,2023,Europe and Central Asia
+Bosnia and Herzegovina,BIH,2023,Europe and Central Asia
+Botswana,BWA,2023,Sub-Saharan Africa
+Brazil,BRA,2023,Latin America and Caribbean
+British Indian Ocean Territory,IOT,2023,South Asia
+British Virgin Islands,VGB,2023,Latin America and Caribbean
+Brunei,BRN,2023,East Asia and Pacific
+Bulgaria,BGR,2023,Europe and Central Asia
+Burkina Faso,BFA,2023,Sub-Saharan Africa
+Burundi,BDI,2023,Sub-Saharan Africa
+Cambodia,KHM,2023,East Asia and Pacific
+Cameroon,CMR,2023,Sub-Saharan Africa
+Canada,CAN,2023,North America
+Cape Verde,CPV,2023,Sub-Saharan Africa
+Cayman Islands,CYM,2023,Latin America and Caribbean
+Central African Republic,CAF,2023,Sub-Saharan Africa
+Chad,TCD,2023,Sub-Saharan Africa
+Chile,CHL,2023,Latin America and Caribbean
+China,CHN,2023,East Asia and Pacific
+Christmas Island,CXR,2023,East Asia and Pacific
+Cocos Islands,CCK,2023,East Asia and Pacific
+Colombia,COL,2023,Latin America and Caribbean
+Comoros,COM,2023,Sub-Saharan Africa
+Congo,COG,2023,Sub-Saharan Africa
+Cook Islands,COK,2023,East Asia and Pacific
+Costa Rica,CRI,2023,Latin America and Caribbean
+Cote d'Ivoire,CIV,2023,Sub-Saharan Africa
+Croatia,HRV,2023,Europe and Central Asia
+Cuba,CUB,2023,Latin America and Caribbean
+Curacao,CUW,2023,Latin America and Caribbean
+Cyprus,CYP,2023,Europe and Central Asia
+Czechia,CZE,2023,Europe and Central Asia
+Czechoslovakia,OWID_CZS,2023,Europe and Central Asia
+Democratic Republic of Congo,COD,2023,Sub-Saharan Africa
+Democratic Republic of Vietnam,,2023,East Asia and Pacific
+Denmark,DNK,2023,Europe and Central Asia
+Djibouti,DJI,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Dominica,DMA,2023,Latin America and Caribbean
+Dominican Republic,DOM,2023,Latin America and Caribbean
+Duchy of Modena and Reggio,,2023,Europe and Central Asia
+Duchy of Parma and Piacenza,,2023,Europe and Central Asia
+East Germany,OWID_GDR,2023,Europe and Central Asia
+East Timor,TLS,2023,East Asia and Pacific
+Ecuador,ECU,2023,Latin America and Caribbean
+Egypt,EGY,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+El Salvador,SLV,2023,Latin America and Caribbean
+Equatorial Guinea,GNQ,2023,Sub-Saharan Africa
+Eritrea,ERI,2023,Sub-Saharan Africa
+Estonia,EST,2023,Europe and Central Asia
+Eswatini,SWZ,2023,Sub-Saharan Africa
+Ethiopia,ETH,2023,Sub-Saharan Africa
+Ethiopia (former),OWID_ERE,2023,Sub-Saharan Africa
+Falkland Islands,FLK,2023,Latin America and Caribbean
+Faroe Islands,FRO,2023,Europe and Central Asia
+Federal Republic of Central America,,2023,Latin America and Caribbean
+Fiji,FJI,2023,East Asia and Pacific
+Finland,FIN,2023,Europe and Central Asia
+France,FRA,2023,Europe and Central Asia
+French Guiana,GUF,2023,Europe and Central Asia
+French Polynesia,PYF,2023,East Asia and Pacific
+Gabon,GAB,2023,Sub-Saharan Africa
+Gambia,GMB,2023,Sub-Saharan Africa
+Georgia,GEO,2023,Europe and Central Asia
+Germany,DEU,2023,Europe and Central Asia
+Ghana,GHA,2023,Sub-Saharan Africa
+Gibraltar,GIB,2023,Europe and Central Asia
+Grand Duchy of Baden,,2023,Europe and Central Asia
+Grand Duchy of Tuscany,,2023,Europe and Central Asia
+Great Colombia,,2023,Latin America and Caribbean
+Greece,GRC,2023,Europe and Central Asia
+Greenland,GRL,2023,Europe and Central Asia
+Grenada,GRD,2023,Latin America and Caribbean
+Guadeloupe,GLP,2023,Europe and Central Asia
+Guam,GUM,2023,East Asia and Pacific
+Guatemala,GTM,2023,Latin America and Caribbean
+Guernsey,GGY,2023,Europe and Central Asia
+Guinea,GIN,2023,Sub-Saharan Africa
+Guinea-Bissau,GNB,2023,Sub-Saharan Africa
+Guyana,GUY,2023,Latin America and Caribbean
+Haiti,HTI,2023,Latin America and Caribbean
+Honduras,HND,2023,Latin America and Caribbean
+Hong Kong,HKG,2023,East Asia and Pacific
+Hungary,HUN,2023,Europe and Central Asia
+Iceland,ISL,2023,Europe and Central Asia
+India,IND,2023,South Asia
+Indonesia,IDN,2023,East Asia and Pacific
+Iran,IRN,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Iraq,IRQ,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Ireland,IRL,2023,Europe and Central Asia
+Isle of Man,IMN,2023,Europe and Central Asia
+Israel,ISR,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Italy,ITA,2023,Europe and Central Asia
+Jamaica,JAM,2023,Latin America and Caribbean
+Japan,JPN,2023,East Asia and Pacific
+Jersey,JEY,2023,Europe and Central Asia
+Jordan,JOR,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Kazakhstan,KAZ,2023,Europe and Central Asia
+Kenya,KEN,2023,Sub-Saharan Africa
+Kingdom of Bavaria,,2023,Europe and Central Asia
+Kingdom of Sardinia,,2023,Europe and Central Asia
+Kingdom of Saxony,,2023,Europe and Central Asia
+Kingdom of Wurttemberg,,2023,Europe and Central Asia
+Kingdom of the Two Sicilies,,2023,Europe and Central Asia
+Kiribati,KIR,2023,East Asia and Pacific
+Korea (former),OWID_KRU,2023,East Asia and Pacific
+Kosovo,OWID_KOS,2023,Europe and Central Asia
+Kuwait,KWT,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Kyrgyzstan,KGZ,2023,Europe and Central Asia
+Laos,LAO,2023,East Asia and Pacific
+Latvia,LVA,2023,Europe and Central Asia
+Lebanon,LBN,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Lesotho,LSO,2023,Sub-Saharan Africa
+Liberia,LBR,2023,Sub-Saharan Africa
+Libya,LBY,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Liechtenstein,LIE,2023,Europe and Central Asia
+Lithuania,LTU,2023,Europe and Central Asia
+Luxembourg,LUX,2023,Europe and Central Asia
+Macao,MAC,2023,East Asia and Pacific
+Madagascar,MDG,2023,Sub-Saharan Africa
+Malawi,MWI,2023,Sub-Saharan Africa
+Malaysia,MYS,2023,East Asia and Pacific
+Maldives,MDV,2023,South Asia
+Mali,MLI,2023,Sub-Saharan Africa
+Malta,MLT,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Marshall Islands,MHL,2023,East Asia and Pacific
+Martinique,MTQ,2023,Europe and Central Asia
+Mauritania,MRT,2023,Sub-Saharan Africa
+Mauritius,MUS,2023,Sub-Saharan Africa
+Mayotte,MYT,2023,Europe and Central Asia
+Mexico,MEX,2023,Latin America and Caribbean
+Micronesia (country),FSM,2023,East Asia and Pacific
+Moldova,MDA,2023,Europe and Central Asia
+Monaco,MCO,2023,Europe and Central Asia
+Mongolia,MNG,2023,East Asia and Pacific
+Montenegro,MNE,2023,Europe and Central Asia
+Montserrat,MSR,2023,Europe and Central Asia
+Morocco,MAR,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Mozambique,MOZ,2023,Sub-Saharan Africa
+Myanmar,MMR,2023,East Asia and Pacific
+Namibia,NAM,2023,Sub-Saharan Africa
+Nauru,NRU,2023,East Asia and Pacific
+Nepal,NPL,2023,South Asia
+Netherlands,NLD,2023,Europe and Central Asia
+Netherlands Antilles,ANT,2023,Europe and Central Asia
+New Caledonia,NCL,2023,East Asia and Pacific
+New Zealand,NZL,2023,East Asia and Pacific
+Nicaragua,NIC,2023,Latin America and Caribbean
+Niger,NER,2023,Sub-Saharan Africa
+Nigeria,NGA,2023,Sub-Saharan Africa
+Niue,NIU,2023,East Asia and Pacific
+Norfolk Island,NFK,2023,East Asia and Pacific
+North Korea,PRK,2023,East Asia and Pacific
+North Macedonia,MKD,2023,Europe and Central Asia
+Northern Mariana Islands,MNP,2023,East Asia and Pacific
+Norway,NOR,2023,Europe and Central Asia
+Oman,OMN,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Orange Free State,,2023,Sub-Saharan Africa
+Pakistan,PAK,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Pakistan (former),,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Palau,PLW,2023,East Asia and Pacific
+Palestine,PSE,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Panama,PAN,2023,Latin America and Caribbean
+Papua New Guinea,PNG,2023,East Asia and Pacific
+Paraguay,PRY,2023,Latin America and Caribbean
+Peru,PER,2023,Latin America and Caribbean
+Philippines,PHL,2023,East Asia and Pacific
+Pitcairn,PCN,2023,East Asia and Pacific
+Poland,POL,2023,Europe and Central Asia
+Portugal,PRT,2023,Europe and Central Asia
+Puerto Rico,PRI,2023,Latin America and Caribbean
+Qatar,QAT,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Republic of Vietnam,OWID_RVN,2023,East Asia and Pacific
+Reunion,REU,2023,Europe and Central Asia
+Romania,ROU,2023,Europe and Central Asia
+Russia,RUS,2023,Europe and Central Asia
+Rwanda,RWA,2023,Sub-Saharan Africa
+Saint Barthelemy,BLM,2023,Europe and Central Asia
+Saint Helena,SHN,2023,Europe and Central Asia
+Saint Kitts and Nevis,KNA,2023,Latin America and Caribbean
+Saint Lucia,LCA,2023,Latin America and Caribbean
+Saint Martin (French part),MAF,2023,Latin America and Caribbean
+Saint Pierre and Miquelon,SPM,2023,North America
+Saint Vincent and the Grenadines,VCT,2023,Latin America and Caribbean
+Samoa,WSM,2023,East Asia and Pacific
+San Marino,SMR,2023,Europe and Central Asia
+Sao Tome and Principe,STP,2023,Sub-Saharan Africa
+Saudi Arabia,SAU,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Senegal,SEN,2023,Sub-Saharan Africa
+Serbia,SRB,2023,Europe and Central Asia
+Serbia and Montenegro,OWID_SRM,2023,Europe and Central Asia
+Seychelles,SYC,2023,Sub-Saharan Africa
+Sierra Leone,SLE,2023,Sub-Saharan Africa
+Singapore,SGP,2023,East Asia and Pacific
+Sint Maarten (Dutch part),SXM,2023,Latin America and Caribbean
+Slovakia,SVK,2023,Europe and Central Asia
+Slovenia,SVN,2023,Europe and Central Asia
+Solomon Islands,SLB,2023,East Asia and Pacific
+Somalia,SOM,2023,Sub-Saharan Africa
+South Africa,ZAF,2023,Sub-Saharan Africa
+South Georgia and the South Sandwich Islands,SGS,2023,Latin America and Caribbean
+South Korea,KOR,2023,East Asia and Pacific
+South Sudan,SSD,2023,Sub-Saharan Africa
+Spain,ESP,2023,Europe and Central Asia
+Sri Lanka,LKA,2023,South Asia
+Sudan,SDN,2023,Sub-Saharan Africa
+Suriname,SUR,2023,Latin America and Caribbean
+Sweden,SWE,2023,Europe and Central Asia
+Switzerland,CHE,2023,Europe and Central Asia
+Syria,SYR,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Taiwan,TWN,2023,East Asia and Pacific
+Tajikistan,TJK,2023,Europe and Central Asia
+Tanzania,TZA,2023,Sub-Saharan Africa
+Thailand,THA,2023,East Asia and Pacific
+Togo,TGO,2023,Sub-Saharan Africa
+Tokelau,TKL,2023,East Asia and Pacific
+Tonga,TON,2023,East Asia and Pacific
+Trinidad and Tobago,TTO,2023,Latin America and Caribbean
+Tunisia,TUN,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Turkey,TUR,2023,Europe and Central Asia
+Turkmenistan,TKM,2023,Europe and Central Asia
+Turks and Caicos Islands,TCA,2023,Latin America and Caribbean
+Tuvalu,TUV,2023,East Asia and Pacific
+USSR,OWID_USS,2023,Europe and Central Asia
+Uganda,UGA,2023,Sub-Saharan Africa
+Ukraine,UKR,2023,Europe and Central Asia
+United Arab Emirates,ARE,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+United Kingdom,GBR,2023,Europe and Central Asia
+United States,USA,2023,North America
+United States Virgin Islands,VIR,2023,Latin America and Caribbean
+Uruguay,URY,2023,Latin America and Caribbean
+Uzbekistan,UZB,2023,Europe and Central Asia
+Vanuatu,VUT,2023,East Asia and Pacific
+Vatican,VAT,2023,Europe and Central Asia
+Venezuela,VEN,2023,Latin America and Caribbean
+Vietnam,VNM,2023,East Asia and Pacific
+Wallis and Futuna,WLF,2023,East Asia and Pacific
+West Germany,OWID_GFR,2023,Europe and Central Asia
+Yemen,YEM,2023,"Middle East, North Africa, Afghanistan and Pakistan"
+Yugoslavia,OWID_YGS,2023,Europe and Central Asia
+Zambia,ZMB,2023,Sub-Saharan Africa
+Zimbabwe,ZWE,2023,Sub-Saharan Africa
