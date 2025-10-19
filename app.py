@@ -8,8 +8,12 @@ from anim_progress import make_hdi_vs_component_animated
 from dash import Dash, dcc, html, Input, Output
 
 #data load
-df_long  = pd.read_csv("HDR25_long_format.csv")
-df_panel = pd.read_csv("HDR25_panel_format.csv")
+df_long  = pd.read_csv(
+    "https://raw.githubusercontent.com/lognormal-guy/global-development-data/main/HDR25_long_format.csv"
+)
+df_panel = pd.read_csv(
+    "https://raw.githubusercontent.com/lognormal-guy/global-development-data/main/HDR25_panel_format.csv"
+)
 
 #build the dash app
 #get all the data - with sorting
